@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,4 +10,6 @@ layout: single
 
 # About Me
 
-I am a researcher from TeleAI, focusing on **Computer Vision / Multimodal**.
+I am Qi Zhang, a researcher at TeleAI, specializing in Computer Vision and Multimodal technologies. 
+
+Welcome to my personal website!
